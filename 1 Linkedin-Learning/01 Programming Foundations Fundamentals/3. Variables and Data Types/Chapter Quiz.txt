@@ -1,0 +1,83 @@
+When would a removal of white space be problematic?
+removing the space after the "if" in if x==1
+____________________________________________________________________________________________________________
+
+Although Python ignores empty lines, one place where whitespace does make a difference is inside of _____.
+strings
+____________________________________________________________________________________________________________
+
+Which expression evaluates to 2?
+5 % 3
+____________________________________________________________________________________________________________
+
+Python treats all numbers the same, regardless of numerical value.
+FALSE
+____________________________________________________________________________________________________________
+Which string definition results in an error?
+'It's 10am'
+____________________________________________________________________________________________________________
+
+Which of these will not output:
+print('I'm learning a lot!')
+____________________________________________________________________________________________________________
+
+Which character starts a comment in Python?
+#
+____________________________________________________________________________________________________________
+
+What is the output of the following Python code?
+first_name = "Jeff"
+ #first_name = "Sara"
+ print(first_name)
+
+ Jeff
+
+____________________________________________________________________________________________________________
+What will the following code print?
+
+number = 3**2
+ Number = 2**3
+ print(number)
+
+9
+
+____________________________________________________________________________________________________________
+What is the output of this Python code?
+first_name = "Jeff"
+ first_Name = "Sara"
+
+ print(first_name)
+
+ Jeff
+____________________________________________________________________________________________________________
+Which variable name is valid in Python?
+account_balance
+
+____________________________________________________________________________________________________________
+Which data type in Python represents a number with a decimal point?
+Float
+
+____________________________________________________________________________________________________________
+How would you fix the following code to return the remainder of 1,000 divided by 300?
+
+1000 % 300
+
+____________________________________________________________________________________________________________
+What will the following code print?
+variable = "12"
+ print(type(variable))
+
+ str
+
+____________________________________________________________________________________________________________
+What operator do you use to assign a value to a variable?
+equals (=)
+
+____________________________________________________________________________________________________________
+Which data type is a whole number?
+int
+
+____________________________________________________________________________________________________________
+Which variable name is valid in Python?
+speed_limit
+

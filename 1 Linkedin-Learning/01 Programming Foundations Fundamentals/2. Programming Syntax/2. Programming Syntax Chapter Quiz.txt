@@ -1,0 +1,81 @@
+You have Python 3 installed. How will you run the Python code in the file "process.py" on the command-line prompt?
+python3 process.py
+____________________________________________________________________________________________________________
+
+To get Python code suggestions, you need to tell VS Code which Python interpreter to use.
+TRUE
+____________________________________________________________________________________________________________
+
+Which statement is true regarding Python support in VS Code?
+You need to install a VS Code extension to support Python.
+____________________________________________________________________________________________________________
+
+What does this expression evaluate to?
+16
+____________________________________________________________________________________________________________
+Which expression evaluates to 20?
+(2 + 3) * 4
+____________________________________________________________________________________________________________
+
+Which is an example of a syntax error?
+2 (4*2)
+____________________________________________________________________________________________________________
+
+
+Which of these is NOT a reason why we chose Python as the language for the course?
+highly performant
+____________________________________________________________________________________________________________
+
+
+Which concern could be considered a disadvantage of Python under certain circumstances?
+Python is a general-purpose language.
+____________________________________________________________________________________________________________
+
+Why does VS Code need a Python interpreter to be specified?
+to provide code suggestions
+____________________________________________________________________________________________________________
+
+When working with the Terminal inside of VSCode, how can you expand the pane?
+Click the up arrow.
+____________________________________________________________________________________________________________
+In the Python Terminal, what is printed when running the following line?
+11
+____________________________________________________________________________________________________________
+
+What does this expression evaluate to?
+3 + 2 * 5
+13
+____________________________________________________________________________________________________________
+
+The code below, which is supposed to print the value of the variable x, is not working. Which category does the error fall under?
+semantic
+____________________________________________________________________________________________________________
+
+Which statement is true regarding Python on a Mac?
+A Mac comes with a version of Python already installed.
+____________________________________________________________________________________________________________
+
+Which is an example of a runtime error?
+name = "It's me!"
+ print("Hello.", Name)
+____________________________________________________________________________________________________________
+
+Typing “What is 2 plus 2?” into the Python prompt causes a _____.
+syntax error
+____________________________________________________________________________________________________________
+
+Which Mac application allows you to run commands and execute scripts in a command-line interface?
+Terminal
+____________________________________________________________________________________________________________
+Which command will start the Python prompt on your computer?
+python3
+____________________________________________________________________________________________________________
+Which command exits from the Python command-line prompt?
+exit()
+____________________________________________________________________________________________________________
+
+
+If you execute the following expression, what is the output?
+>>> 3 + 5 * 2
+13
+____________________________________________________________________________________________________________

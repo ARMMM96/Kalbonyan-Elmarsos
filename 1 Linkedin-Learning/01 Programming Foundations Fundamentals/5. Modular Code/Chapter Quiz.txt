@@ -1,0 +1,100 @@
+Which keyword does Python use to define a function?
+def
+____________________________________________________________________________________________________________
+What does the void keyword mean when it is specified before a function definition?
+
+The function does not return a value.
+
+____________________________________________________________________________________________________________
+What can the following function be used for?
+def mystery(x):
+  if (x % 2 == 0):
+  return("yes")
+  else:
+  return("no")
+
+  checking whether a number is even or odd
+____________________________________________________________________________________________________________
+Which is not a benefit of functions?
+Functions eliminate crashes in your code.
+____________________________________________________________________________________________________________
+What will the following code print?
+def compare():
+  print(5, "is greater than", 6)
+____________________________________________________________________________________________________________
+What will the following code print?
+
+def compare():
+  print(5, "is greater than", 6)
+
+This code will not print anything.
+____________________________________________________________________________________________________________
+The code that's contained inside of a function is often called the function's legs.
+FALSE
+____________________________________________________________________________________________________________
+Why is there no output for this program?
+
+def goodbye():
+  print("Bye")
+
+We never called the goodbye function.
+____________________________________________________________________________________________________________
+Given the following code, how would you call the function?
+
+def hello(name):
+  print("Hey,", name)
+
+hello("John")
+
+____________________________________________________________________________________________________________
+What is the issue with this function as defined?
+def double():
+  print(x*2)
+
+  The number to double is not received.
+____________________________________________________________________________________________________________
+Which Python keyword is used to send back values from a function?
+return
+____________________________________________________________________________________________________________
+What will the following program print?
+def mult_inv(num):
+  return 1/num
+ result=mult_inv(3)
+ print(result)
+
+ 0.333333333
+____________________________________________________________________________________________________________
+What is the output of the following program?
+
+def isEven(num):
+  return num % 2 == 0
+
+ if isEven(3):
+  print("3 is even")
+ else:
+  print("3 is not even")
+
+  3 is not even
+____________________________________________________________________________________________________________
+Given the first line of the function definition below, which programming language is this?
+def factorial(number)
+
+____________________________________________________________________________________________________________
+Which value is not an argument to the "hello" function?
+
+def hello(name):
+  print("Hey,", name)
+
+ hello("John")
+ hello("Mya")
+
+ Hey
+
+____________________________________________________________________________________________________________
+In this function definition, the variable "name" is _____.
+
+def hello(name):
+  print("Hey,", name)
+
+  a parameter
+____________________________________________________________________________________________________________
