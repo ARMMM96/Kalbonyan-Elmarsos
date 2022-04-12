@@ -1,0 +1,9 @@
+Why do developers sometimes use shared code in their programs?
+It can become tedious to have to rewrite code to solve the same problem over and over.
+____________________________________________________________________________________________________________
+What do I have to do in order to incorporate a module into a program?
+import it
+
+____________________________________________________________________________________________________________
+How is a framework different from a library?
+A framework essentially defines how you should accomplish a task.

@@ -1,0 +1,22 @@
+Which Python statement creates a dictionary?
+
+ favorites = {
+  'fruit': 'mango',
+  'vegetable': 'parsnip',
+ }
+____________________________________________________________________________________________________________
+What is the first index value in a list?
+0
+____________________________________________________________________________________________________________
+Which is an advantage of using a collection?
+
+indicates that multiple pieces of data are related.
+____________________________________________________________________________________________________________
+What type of collection is the colors variable in the following code?
+ colors = ['red', 'orange', 'yellow']
+
+list
+____________________________________________________________________________________________________________
+Python requires that all values in a list must be of the same data type.
+
+FALSE
