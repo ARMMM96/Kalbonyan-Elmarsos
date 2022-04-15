@@ -1,0 +1,13 @@
+Interface : List of methods for a class to implement. It dosen't contain any actual behavior.
+_______________________________________________________________________________________________
+example: 
+
+//Java code
+interface Movable{
+    //method signatures
+    void move(int x, int y) ;
+}
+
+_______________________________________________________________________________________________
+Interface represent a capability.
+Abstract class represent a type.

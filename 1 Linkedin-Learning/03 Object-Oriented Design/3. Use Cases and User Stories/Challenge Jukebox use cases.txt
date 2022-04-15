@@ -1,0 +1,19 @@
+Use Cases
+
+Title: Play a Song
+Primary Actor: User
+Success Scenario:   system identifies user. 
+                    User browses library of abailabel albums.
+                    User selects an album and browses list of songs on the selected album.
+                    User selects a song.
+                    System plays the selected song.
+                    System adds second song to play queue.
+                    System plays second song after first song is over.
+___________________________________________________________________________________________________
+User Stories
+
+As a user, I want my song to be added to the front of a long play queue, so that I don't have to wait hours to hear it.
+
+As a user, I want to be identified without touching anyhting, so that my hands are free to do other things.
+
+As a user, I want to sort and browse songs by artist, so that I can listen to every song by ABBA.

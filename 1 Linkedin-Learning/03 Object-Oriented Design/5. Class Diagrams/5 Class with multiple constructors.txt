@@ -1,0 +1,27 @@
+// Overloading
+
+// Java Code
+public class Spaceship{
+
+    // instance variables
+    public String callSing;
+    private int shieldStrength;
+
+    // constructor methods
+    public Spaceship(){
+        name = "The nameless ship";
+        shieldStrength = 100;
+    }
+
+    // overload constructors
+    public Spaceship(String name){
+        callSign = name;
+        shieldStrength = 200;
+
+    }
+
+}
+________________________________________________________________________________________________________
+
+The destructor is a method that gets called when an object is no longer needed and is being disposed of. 
+

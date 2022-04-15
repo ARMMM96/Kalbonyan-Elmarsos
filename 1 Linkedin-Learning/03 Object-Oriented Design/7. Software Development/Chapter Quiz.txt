@@ -1,0 +1,35 @@
+You have developed an application with three classes of objects.
+One of the classes has 50 subclasses. What would style critics call this class?
+
+a god object
+____________________________________________________________________________________________
+Which group of design patterns describes how inheritance and
+aggregation can be used to provide additional functionality?
+
+structural
+____________________________________________________________________________________________
+Why should one use a design pattern when possible?
+
+It will likely result in code that is more easily extensible and maintainable.
+____________________________________________________________________________________________
+How does dynamic typing hinder troubleshooting?
+
+It can be difficult to identify variables that are incorrectly typed.
+____________________________________________________________________________________________
+What is an example of a code smell?
+
+duplicate code
+____________________________________________________________________________________________
+Why is code duplication so insidious?
+
+One has to maintain all the duplicates.
+____________________________________________________________________________________________
+What is a good way to help users navigate a software application?
+
+providing proper error messages and prompts
+____________________________________________________________________________________________
+Which language is compiled and is statically typed?
+
+C++
+____________________________________________________________________________________________
+

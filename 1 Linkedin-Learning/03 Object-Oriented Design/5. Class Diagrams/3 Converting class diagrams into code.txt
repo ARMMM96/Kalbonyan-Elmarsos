@@ -1,0 +1,49 @@
+
+
+ _________________________________________
+|               Spaceship               |
+|_______________________________________|
+| - callSing: String = "Excelsior"      |
+| - shieldStrength: Integer             |
+|_______________________________________|
+|                                       |
+|               Behaviors               |
+|_______________________________________|
+| + fireMissile(): String               |
+| + reduceShield(Integer)               |
+|_______________________________________|
+
+
+// Java Code
+public class Spaceship{
+
+    // instance variables
+    public String callSing;
+    private int shieldStrength;
+
+    // methods
+    public String fireMissile(){
+        return "Pew!";
+    }
+
+    public void reduceShield(int amount){
+        shieldStrength -= amount;
+    }
+
+}
+
+// Pyhton Code
+class Spaceship():
+
+    def __int__(self):
+
+        # instance variables
+        self.callSing = ''
+        self_shieldStrength = 100
+
+    # methods
+    def fireMissile(self):
+        return "Pew!"
+
+    def reduceShield(self, amount)
+        self.shieldStrength -= amount

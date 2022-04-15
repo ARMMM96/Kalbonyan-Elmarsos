@@ -1,0 +1,5 @@
+Abstract Class
+* Exists for other classes to inherit
+* Cannot be instantiated
+* Contains at least one abstract method
+

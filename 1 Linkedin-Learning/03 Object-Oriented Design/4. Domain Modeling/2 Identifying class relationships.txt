@@ -1,0 +1,1 @@
+which objects have behaviors that affect other objects?

@@ -1,0 +1,32 @@
+acronym FURPS
+Stands for 
+* Functionaliy:     Capability, Reusability, Security
+* Usability:        Human Factors, Aesthetics, Consistency, Documentation
+     Is it easy on the eyes? Is it intuitive to use? Is the documentation accurate and complete?
+     
+* Reliability:      Availability, Failure Rate & Duration, Predictability
+     To define reliability requirements, you'll need to know how much system downtime is acceptable.
+     If the failures are predictable and how the system can be recovered.
+
+* Performance:      Speed, Efficiency, Resource, Consumption, Scalability
+        Performance requirements dictate the application's response time through put. 
+        And they put limits on the system resources it can use.
+
+* Supportability:   Testability, Extensibility, Servicability, Configurability     
+     Make sure the application can be tested, extended, serviced and installed and configured.
+
+--------------------------------------------------------------------------------------------------------
+FURPS+
+
+Design:  how the software must be built because the app requires certain things such as a relational database.
+
+
+Implementation:
+          Does it have to be written in a certain language? 
+          Are there standards or methodologies that need to be followed? 
+Interface: 
+          The interface typically refers not to the user interface.
+          but to an external system that needs to be interfaced with. 
+
+Physical requirements:
+          Actual physical constraints related to the hardware the application will be deployed on.

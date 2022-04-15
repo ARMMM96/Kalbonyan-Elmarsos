@@ -1,0 +1,1 @@
+It shows the relationship between the actors and the different use cases in which they're involved.

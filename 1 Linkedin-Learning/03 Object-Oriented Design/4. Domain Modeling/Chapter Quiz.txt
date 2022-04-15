@@ -1,0 +1,41 @@
+How can one avoid assigning too many responsibilities to a single object?
+Require objects to take care of themselves to a greater extent.
+_______________________________________________________________________________
+What common problem should new programmers avoid when designing a program?
+creating a god object
+_______________________________________________________________________________
+In addition to responsibilities, which should be listed on CRC cards?
+interacting classes
+_______________________________________________________________________________
+Which design tool contains the same information as a conceptual object diagram?
+CRC cards
+_______________________________________________________________________________
+After analysis and use cases are completed, 
+what is the first step in the design phase of a project?
+
+creating a conceptual model
+_______________________________________________________________________________
+When is there a relationship between two objects?
+when one object depends on or affects the other object
+_______________________________________________________________________________
+When diagramming relationships between objects,
+what is the UML notation that represents one or more objects?
+1…*
+_______________________________________________________________________________
+How can you identify candidates for objects?
+by listing all of the nouns in the user stories
+_______________________________________________________________________________
+In the following CRC card, what does card represent?
+a collaborator
+_______________________________________________________________________________
+Which words in the following list are candidates for objects: trumpet, clean,
+enrage, leaf, tree, collapse, active, or lively?
+
+trumpet, leaf, and tree
+_______________________________________________________________________________
+
+
+
+
+
+

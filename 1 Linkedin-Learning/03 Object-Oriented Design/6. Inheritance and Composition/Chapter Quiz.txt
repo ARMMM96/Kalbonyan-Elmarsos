@@ -1,0 +1,71 @@
+Which relationship is a good candidate for superclass and subclass?
+utensil-fork
+_______________________________________________________________________
+What does this line of Java code declare?
+public class Apple extends Fruit {
+
+a new class Apple that is inherited from the class Fruit
+
+_______________________________________________________________________
+Why is the syntax for inheritance in C++ different from most other languages?
+
+because a class can inherit from multiple levels in C++
+_______________________________________________________________________
+Which line of code will define a C# abstract class named School?
+
+abstract class School {
+_______________________________________________________________________
+Which concept of object-oriented programming is displayed
+by using the "is a kind of" comparison between 2 classes?
+
+inheritance
+_______________________________________________________________________
+A concrete class has no _____.
+
+children
+_______________________________________________________________________
+Why would you create an abstract class, if it can have no real instances?
+
+to avoid redundant coding in child classes
+_______________________________________________________________________
+An aggregation is a _____.
+
+collection of objects
+_______________________________________________________________________
+What form of aggregation implies ownership, and that the lifetime of 
+an object is dependent on another object's existence?
+
+composition
+_______________________________________________________________________
+How are the contents of a composition different from those of an aggregation?
+If a composition dies, the contents die.
+_______________________________________________________________________
+In Java, how would you define an interface named Box that contains
+two methods named Open and Close that don't accept or return any variables?
+
+interface Box {
+void Open();
+void Close();
+_______________________________________________________________________
+What do most languages have in common for referring to a method defined in the parent class?
+
+the use of super in the prefix to the method name
+_______________________________________________________________________
+Why should you use abstract and final in class definitions?
+
+to better communicate intentions
+_______________________________________________________________________
+When is an interface used instead of an abstract class?
+
+when you need to describe the capabilities of a class
+_______________________________________________________________________
+Which relationship between classes is referred to as a "has a" relationship?
+
+aggregation
+_______________________________________________________________________
+Which representation is correct UML for the interface Edible?
+
+<<interface>>
+Edible
+beEaten()
+_______________________________________________________________________

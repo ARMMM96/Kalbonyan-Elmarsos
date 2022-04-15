@@ -1,0 +1,45 @@
+Class Diagram
+
+
+_________________________________________
+|               Spaceship               |
+|_______________________________________|
+|  callSing: String = "Excelsior"       |
+|  shieldActive: Boolean                |
+|  shieldStrength: Integer              |
+|  positioni: Coordinate                |
+|_______________________________________|
+|                                       |
+|               Behaviors               |
+|_______________________________________|
+|  getShieldStrength()                  |
+|  reduceShield(Integer)                |
+|  getPosition()                        |
+|  move(Direction)                      |
+|  setPosition(Corrdinate)              |
+|_______________________________________|
+
+
+
+
+ controlling visibility
+ _________________________________________
+|               Spaceship               |
+|_______________________________________|
+| - callSing: String = "Excelsior"      |
+| - shieldActive: Boolean               |
+| - shieldStrength: Integer             |
+| - positioni: Coordinate               |
+|_______________________________________|
+|                                       |
+|               Behaviors               |
+|_______________________________________|
+| + getShieldStrength()                 |
+| + reduceShield(Integer)               |
+| + getPosition()                       |
+| + move(Direction)                     |
+| - setPosition(Corrdinate)             |
+|_______________________________________|
+
+ Minus indicates that a member should be private to the class, 
+ meaning it's not directly accessible by other objects, and plus means the member should be public. 

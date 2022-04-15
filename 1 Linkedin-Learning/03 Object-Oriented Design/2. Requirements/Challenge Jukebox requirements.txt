@@ -1,0 +1,18 @@
+Juke box for our moon shuttle.
+
+Functional The system must 
+    * Maintain a library of albums and songs
+    * Allow users to browse albums and songs
+    * Allow users to select individual songs
+    * Prevent users from selecting entire albums 
+    * Maintain q queue of songs to play
+    * Play music
+    * Allow users to sort by artist
+    * Identify indiviudal users
+    * Track number of plays per user
+--------------------------------------------------------------------------------------
+Non-Functional: The system should be...
+    * Intutive to user while floating in space
+    * Available 24/7
+    * Low-power
+    * Updateable 

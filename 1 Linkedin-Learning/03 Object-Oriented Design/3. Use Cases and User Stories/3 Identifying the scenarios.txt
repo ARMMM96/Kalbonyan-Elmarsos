@@ -1,0 +1,13 @@
+- When writing use case scenarios describe a goal that an actor can accomplish in a single encounter 
+and stay focused on the user's intention, what they really want to accomplish.
+
+Active voice: Omit needless words
+For example: 
+Astronaut inserts meal package.
+System sends pager message.
+------------------------------------------------------------
+Use case Prompts
+* Who performs System administration tasks?
+* Who manages users and security?
+* What happens if the system fails?
+* Is anyone looking at performance metrics or logs?

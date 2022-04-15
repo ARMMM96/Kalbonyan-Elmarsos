@@ -1,0 +1,2 @@
+- We need to figure out the responsibilities for our conceptual objects to really identify what are, 
+    and what are not classes that we'll need to create,

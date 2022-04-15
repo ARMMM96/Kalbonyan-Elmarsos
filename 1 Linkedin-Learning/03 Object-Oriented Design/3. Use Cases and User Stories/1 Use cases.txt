@@ -1,0 +1,37 @@
+Use Cases
+Title: What is the goal?
+Primary Actor: Who desires it?
+Success Scenario: How is it accomplished?
+___________________________________________________
+Use Case: Scenario as Paragraph 
+Title: Heat Meal
+Primary Actor: Astronaut
+Success Scenario: Astronaut inserts meal package. System
+identifies type of meal. Ststem heats package for length 
+of time required for meal type. Systm notifies astronaut
+that meal is ready bia space pager. Astronaut removes
+package from system.
+
+Success Scenario: 
+1- Astronaut inserts meal package.
+2- System identifies type of meal.
+3- System heats package for length of time required for meal type.
+4- System notifies astronaut that meal is ready via space pager.
+5- Astronaut removes package from system.
+
+Extensions:
+2a Descrive steps for unidentifiable package.
+4a Descrive steps for space-pager systems error.
+
+Preconditions: Customer has selected meal to prepare.
+
+oter details..
+Secondary Actors: ..
+Stakeholders: ..
+Scope: ..
+Priority: ..
+Owner: ..
+____________________________________________________
+how do you capture that in a use case? 
+    use cases are typically written to describe successful operations.
+

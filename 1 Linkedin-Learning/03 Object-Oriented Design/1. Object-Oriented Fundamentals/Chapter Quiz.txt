@@ -1,0 +1,86 @@
+What is the difference between object-oriented programming and procedural programming?
+Procedural programming specifies a sequence of tasks, but object-oriented programming describes the properties of tools or items.
+____________________________________________________________________________________________________________
+How does dynamic polymorphism differ from static polymorphism?
+It uses overriding instead of overloading.
+____________________________________________________________________________________________________________
+What is overriding a method?
+Creating a unique version of an inherited method.
+____________________________________________________________________________________________________________
+How are analysis and design different?
+Analysis describes a problem; design describes a solution.
+____________________________________________________________________________________________________________
+What is the term for a visual representation of the classes in an application?
+class diagram
+____________________________________________________________________________________________________________
+In addition to attributes and methods, what does a UML class diagram contain?
+the class name
+____________________________________________________________________________________________________________
+How do object behaviors and attributes differ?
+Attributes describe a state, but behaviors describe actions.
+____________________________________________________________________________________________________________
+You are designing a traffic simulation program. What is a possible attribute that you could use for a car object?
+gas mileage
+____________________________________________________________________________________________________________
+Shonzu has gathered the requirements for a new solution, described the application he is going to build,
+and identified the main objects in the solution. What should he do next?
+Describe object interactions.
+____________________________________________________________________________________________________________
+What is the purpose of encapsulation?
+to protect an object from unwanted changes
+____________________________________________________________________________________________________________
+In addition to attributes and behaviors, which quality must a class possess?
+a name
+____________________________________________________________________________________________________________
+In the following class diagram, what does lower() represent?
+TRIPOD
+height
+width
+angle
+raise()
+lower()
+point()
+fold()
+
+a behavior
+____________________________________________________________________________________________________________
+What is a benefit of using a programming language that has a large library?
+Many classes are already defined and can be used without have to re-define them.
+____________________________________________________________________________________________________________
+In the following class diagram, what does height represent?
+TRIPOD
+height
+width
+angle
+raise()
+lower()
+point()
+fold()
+
+an attribute
+____________________________________________________________________________________________________________
+We're using abstraction when we define a(n) _____.
+
+class
+____________________________________________________________________________________________________________
+Focusing on the idea of a person instead of an individual is an example of what fundamental idea in object-oriented programming?
+
+abstraction
+____________________________________________________________________________________________________________
+Steve is able to turn on and adjust his television even though he does not know how it works internally. 
+This exemplifies which principle of object-oriented programming?
+
+encapsulation
+____________________________________________________________________________________________________________
+Why is inheritance used when creating a new class?
+to avoid redefining attributes and behaviors
+____________________________________________________________________________________________________________
+If an attribute is added to a superclass, what happens to all of the objects of the subclass?
+Each subclass object automatically receives the additional attribute.
+____________________________________________________________________________________________________________
+Static polymorphism uses method _____.
+overloading
+____________________________________________________________________________________________________________
+
+
+

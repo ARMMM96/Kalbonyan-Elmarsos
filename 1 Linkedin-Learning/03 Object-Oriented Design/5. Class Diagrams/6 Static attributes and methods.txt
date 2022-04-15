@@ -1,0 +1,53 @@
+Static Variable:    Variable that shared across all objects in a class.
+                    Also called a shared Variable or a class variable.
+
+_________________________________________________________________________
+example: 
+
+// Java Code
+public class Spaceship{
+
+    // instance variables
+    public String callSing;
+    private int shieldStrength;
+
+    // class variables
+    public static float toughness;
+
+}
+_________________________________________________________________________
+
+
+// Pyhton Code
+class Spaceship():
+    # class variables
+    toughenss = 0.8
+
+    def __int__(self):
+
+        # instance variables
+        self.callSing = ''
+        self_shieldStrength = 100
+
+
+_________________________________________________________________________
+To access a static variable, we need to use the class name.
+
+Spaceship.toughness
+
+_________________________________________________________________________
+Creating Static Methods
+
+public class Spaceship{
+
+    // instance variable omitted
+
+    // private static variables
+    public static float toughenss;
+
+    // public static Methods
+    public static increaseDifficulty(float t){
+        toughenss += t;
+    }
+
+}

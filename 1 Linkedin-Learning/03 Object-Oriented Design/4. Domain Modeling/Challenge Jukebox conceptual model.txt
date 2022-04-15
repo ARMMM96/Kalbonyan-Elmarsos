@@ -1,0 +1,17 @@
+ - The first step towards building our conceptual model for the Space Jukebox Challenge is to identify the objects.
+  By finding the nouns and the use cases and user stories. 
+
+
+Possible Objects:
+  * Queue
+  * Admin
+  * User
+  * Library
+  * Album
+  * Song
+----------------------
+Verb Phrases
+  * Add song to queue
+  * Play song from queue
+  * Cancel song in queue
+  * Identify user

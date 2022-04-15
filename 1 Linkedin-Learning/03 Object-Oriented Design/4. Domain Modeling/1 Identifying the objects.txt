@@ -1,0 +1,8 @@
+Conceptual Model
+Represents important objects and the relationships between them.
+
+what are the things in the application that we need to be aware of?
+
+
+To identify objects, we'll go through all of our use cases
+and user stories and any other written requirements to pick out all of the nouns.

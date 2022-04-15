@@ -1,0 +1,43 @@
+When creating a use case diagram, what can you do to show each self-contained use case?
+draw an ellipse around each use case
+________________________________________________________________________________________
+What is wrong with the following scenario description.
+"The pedals were used to control speed and direction."
+
+It is passive and focuses on means instead of intent.
+________________________________________________________________________________________
+What is the function of a use case diagram?
+It connects actors to use cases.
+________________________________________________________________________________________
+Why are arrows and numbers not found in use case diagrams?
+Sequence and direction are not critical at this stage.
+________________________________________________________________________________________
+What is typically written on index cards, and describes a small scenario from a user perspective?
+user story
+________________________________________________________________________________________
+User stories are _____ than use cases.
+shorter and less detailed
+________________________________________________________________________________________
+Marge is working on a short and simple project involving inventory maintenance. Why should she write short use cases?
+They help identify problems but do not create the confusing work of full use cases.
+________________________________________________________________________________________
+Which sentence is most appropriate for a use case scenario?
+User adjusts contrast and brightness controls.
+________________________________________________________________________________________
+What is the role of the primary actor in a use case?
+to interact with the application to achieve the goal
+________________________________________________________________________________________
+When are fully fleshed out cases most appropriate?
+for large, complex projects
+________________________________________________________________________________________
+You are creating a use case for an application that controls the dispensing of gasoline at a pump. 
+Who is the primary actor in this scenario?
+the customer who uses the pump
+________________________________________________________________________________________
+application initiation
+
+
+
+
+
+

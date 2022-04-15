@@ -1,0 +1,118 @@
+In which language is the following class specification written?
+class Dog():
+      def __init__(self):
+#instance variables
+      self.breed=""
+       self.weight=50
+#methods
+
+Python
+_________________________________________________________________________________
+Instantiating a class in many languages looks similar to that in C++, 
+DinnerPlate *myPlate = new DinnerPlate(). 
+What is the main difference between Python and Swift for achieving the same goal?
+
+the absence of the word new
+_________________________________________________________________________________
+A class Dog has the following constructors:
+public Dog() 
+public Dog(String breed)
+public Dog(int weight)
+How would you instantiate a Dog with the weight set in Java?
+
+Dog Fido = new Dog(63);
+_________________________________________________________________________________
+Which languages require the use of static to declare class-wide variables or methods?
+
+Java and C#
+_________________________________________________________________________________
+Which class diagram correctly specifies data types and default values?
+
+Asteroid
+size: Integer=5
+position: Coordinate=(0.5,0.5,0.6)
+velocity: Coordinate=(1,0,0)
+_________________________________________________________________________________
+Which is the function of a finalizer or destructor?
+to relinquish resources that are no longer needed
+_________________________________________________________________________________
+How would you declare a class variable in Ruby named maxScore?
+@@maxScore
+_________________________________________________________________________________
+A class diagram contains the following behavior specifications.
+Which data type is returned by the accelerate() behavior?
+move(Direction)
+accelerate(Acceleration): Velocity
+setPosition(Coordinate)
+explodePieces(Integer)
+
+Velocity
+_________________________________________________________________________________
+A class diagram contains the following behavior specifications. 
+The explodePieces() behavior breaks up an object into a number of pieces.
+What is the data type for that number? The answer will take the place of the '???'.
+move(Direction)
+accelerate(Acceleration): Velocity
+setPosition(Coordinate)
+explodePieces(???)
+
+Integer
+_________________________________________________________________________________
+For which case would the use of a static attribute be appropriate?
+the weather conditions for each house in a small neighborhood
+_________________________________________________________________________________
+In which language would you find the following declaration of an instance variable?
+private var _size: Int
+Swift
+_________________________________________________________________________________
+What other terminology is used for variables that are declared static?
+
+class or shared
+_________________________________________________________________________________
+What does the value (0.5,0.5,0.5) indicate in the class diagram specification position: Coordinate = (0.5,0.5,0.5)?
+
+a default value of the position attribute
+_________________________________________________________________________________
+In a UML class diagram, how would you write an attribute called Name that is
+a String data type and has a default value of Jane?
+
+Name: String = "Jane"
+_________________________________________________________________________________
+In the class diagram specification setSize(Integer):Integer,
+to what do the integer specifications refer?
+
+the data types for the argument, and return of the function setSize
+_________________________________________________________________________________
+Which line of Java code declares a public method called getName 
+that accepts no arguments and returns a String value?
+
+public String getName()
+_________________________________________________________________________________
+Which line of Java code will instantiate a new object named Student from the Person class?
+
+Person Student = new Person()
+_________________________________________________________________________________
+Which is the purpose of a constructor?
+
+to initialize attribute values
+_________________________________________________________________________________
+The class Person has the following constructors:
+    public Person()
+    public Person(String name)
+    public Person(int age)
+
+Person(int age)
+_________________________________________________________________________________
+Which restrictions apply to the use of static methods?
+
+They cannot act on instance variables, but only static variables.
+_________________________________________________________________________________
+What does it mean if a class attribute is private?
+
+It can only be accessed from within the class.
+_________________________________________________________________________________
+How do you declare a private variable in Python?
+
+Python does not have private or public variables.
+_________________________________________________________________________________
+

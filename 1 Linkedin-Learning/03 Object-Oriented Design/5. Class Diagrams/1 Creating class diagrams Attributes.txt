@@ -1,0 +1,15 @@
+ Each class should have a name written in the singular form, 
+ not plural, and the standard is to use an uppercase first letter.
+
+ Example: 
+_________________________________________
+|               Spaceship               |
+|_______________________________________|
+|  callSing: String = "Excelsior"       |
+|  shieldActive: Boolean                |
+|  shieldStrength: Integer              |
+|  positioni: Coordinate                |
+|_______________________________________|
+|                                       |
+|               Behaviors               |
+|_______________________________________|

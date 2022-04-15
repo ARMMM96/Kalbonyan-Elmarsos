@@ -1,0 +1,20 @@
+What is the first step in defining requirements for an application?
+determining what the application must have and do
+____________________________________________________________________________________
+Which is a valid nonfunctional requirement?
+The system should be updated annually.
+____________________________________________________________________________________
+A requirement that all onscreen text must be at least 20-point
+    font size is an example of which FURPS quality?
+
+usability
+____________________________________________________________________________________
+In which category does extensibility of an application reside?
+supportability
+
+____________________________________________________________________________________
+Atul is working on an application that must communicate with 
+a scientific instrument and a data archiving system. 
+Into which category would these requirements fall in the FURPS+ model?
+
+interface

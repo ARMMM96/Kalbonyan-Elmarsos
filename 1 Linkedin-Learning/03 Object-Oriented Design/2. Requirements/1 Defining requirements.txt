@@ -1,0 +1,33 @@
+Requirements = What does it need to do ?
+
+Functional requirements: What must it do ?
+
+Non Functional requirements: How should it do it ?
+
+Example for Non Functional requirements:  How should it do it ?
+* Legal 
+* Performance
+* Support
+--------------------------------------------------------------------------------------------------------------------
+Functional requirements exaple 2: 
+The system must....
+- heat meals in spcae-packing
+- allow user to set time for meal to be ready
+- notify user when meal is ready via space-pager
+- change cooking time based on type of meal
+- inherit meal types from an abstract superclass <<<< X, PS: Requirements shoudn't conatain  words like inheritance or abstraction or even calss or object
+- continue to function without network connection
+
+--------------------------------------------------------------------------------------------------------------------
+Non Functional requirements
+* The system should be....
+* The application should be....
+For example:    
+    The system should be ...
+        * available 24/7
+        * usable when wearing work gloves
+        * compatible with windows, Mac, Linux, ios, and Android <<< X, PS: this last requirements is a bit excessive.
+
+        PS: You don't need to be exhaustive and have answers for everything up front.
+            On the first pass, only focus on capturing the absolute minimum set of requirements.
+            Not the things are optional, or nice to have, or your dream features.

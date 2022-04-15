@@ -1,0 +1,20 @@
+- User stories are another written format for describing parts of an application, but they're shorter and simpler than a use case.
+
+A user story still describes a single small scenario from a user's perspective, 
+focusing on their goal, what they want to do and why rather than focusing on the system.
+-----------------------------------------------------------------------------------------------------
+User Story 
+
+- As a(type of user)      - I want (goal)      - so that (reason)
+
+_____________________________________________________________________________________________________
+Example: 
+
+       - As an astronaut     - I want to heat up my food            - So that I can eat warm meal.
+
+PS:It should focuses on one specific goal of one specific user for a particular reason. 
+_____________________________________________________________________________________________________
+Example: 
+
+        - As a nutritionist       - I want to see what astronuts eat                - So that I can monitor their dite.
+        
